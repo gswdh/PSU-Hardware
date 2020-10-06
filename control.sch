@@ -1370,6 +1370,25 @@
 <wire x1="-12.5" y1="3.75" x2="-12.5" y2="-3" width="0.15" layer="21"/>
 <text x="-12.5" y="4" size="1.27" layer="25">&gt;NAME</text>
 </package>
+<package name="MOLEX_530471210">
+<wire x1="-8.375" y1="-2.05" x2="8.375" y2="-2.05" width="0.25" layer="21"/>
+<wire x1="8.375" y1="-2.05" x2="8.375" y2="1.15" width="0.25" layer="21"/>
+<wire x1="8.375" y1="1.15" x2="-8.375" y2="1.15" width="0.25" layer="21"/>
+<wire x1="-8.375" y1="1.15" x2="-8.375" y2="-2.05" width="0.25" layer="21"/>
+<pad name="3" x="4.375" y="0" drill="0.5"/>
+<pad name="1" x="6.875" y="0" drill="0.5" shape="square"/>
+<pad name="2" x="5.625" y="0" drill="0.5"/>
+<pad name="4" x="3.125" y="0" drill="0.5"/>
+<pad name="5" x="1.875" y="0" drill="0.5"/>
+<pad name="6" x="0.625" y="0" drill="0.5"/>
+<text x="-8.5" y="1.5" size="1.27" layer="21">&gt;NAME</text>
+<pad name="7" x="-0.625" y="0" drill="0.5"/>
+<pad name="8" x="-1.875" y="0" drill="0.5"/>
+<pad name="9" x="-3.125" y="0" drill="0.5"/>
+<pad name="10" x="-4.375" y="0" drill="0.5"/>
+<pad name="11" x="-5.625" y="0" drill="0.5"/>
+<pad name="12" x="-6.875" y="0" drill="0.5"/>
+</package>
 </packages>
 <symbols>
 <symbol name="USB_ID">
@@ -1433,6 +1452,26 @@
 <pin name="PAD" x="-50.8" y="-10.16" length="middle" rot="R90"/>
 <text x="-53.34" y="10.16" size="1.778" layer="95">&gt;NAME</text>
 <text x="-53.34" y="7.62" size="1.778" layer="96">&gt;VALUE</text>
+</symbol>
+<symbol name="MOLEX_PICOBLADE_12">
+<wire x1="-5.08" y1="-17.78" x2="5.08" y2="-17.78" width="0.254" layer="94"/>
+<wire x1="5.08" y1="-17.78" x2="5.08" y2="15.24" width="0.254" layer="94"/>
+<wire x1="5.08" y1="15.24" x2="-5.08" y2="15.24" width="0.254" layer="94"/>
+<wire x1="-5.08" y1="15.24" x2="-5.08" y2="-17.78" width="0.254" layer="94"/>
+<pin name="1" x="7.62" y="12.7" length="middle" rot="R180"/>
+<pin name="2" x="7.62" y="10.16" length="middle" rot="R180"/>
+<pin name="3" x="7.62" y="7.62" length="middle" rot="R180"/>
+<pin name="4" x="7.62" y="5.08" length="middle" rot="R180"/>
+<pin name="5" x="7.62" y="2.54" length="middle" rot="R180"/>
+<text x="-5.08" y="20.32" size="2.286" layer="95">&gt;NAME</text>
+<text x="-5.08" y="17.78" size="2.286" layer="96">&gt;VALUE</text>
+<pin name="6" x="7.62" y="0" length="middle" rot="R180"/>
+<pin name="7" x="7.62" y="-2.54" length="middle" rot="R180"/>
+<pin name="8" x="7.62" y="-5.08" length="middle" rot="R180"/>
+<pin name="9" x="7.62" y="-7.62" length="middle" rot="R180"/>
+<pin name="10" x="7.62" y="-10.16" length="middle" rot="R180"/>
+<pin name="11" x="7.62" y="-12.7" length="middle" rot="R180"/>
+<pin name="12" x="7.62" y="-15.24" length="middle" rot="R180"/>
 </symbol>
 </symbols>
 <devicesets>
@@ -1517,6 +1556,38 @@
 <attribute name="HEIGHT" value="2" constant="no"/>
 <attribute name="PRICE_PER" value="2.07" constant="no"/>
 <attribute name="VALUE" value="40PIN FPC" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="PICOBLADE_12_" prefix="CN">
+<description>1.25mm pitch 1A connector. 12 way.</description>
+<gates>
+<gate name="G$1" symbol="MOLEX_PICOBLADE_12" x="0" y="0"/>
+</gates>
+<devices>
+<device name="TH_V" package="MOLEX_530471210">
+<connects>
+<connect gate="G$1" pin="1" pad="1"/>
+<connect gate="G$1" pin="10" pad="10"/>
+<connect gate="G$1" pin="11" pad="11"/>
+<connect gate="G$1" pin="12" pad="12"/>
+<connect gate="G$1" pin="2" pad="2"/>
+<connect gate="G$1" pin="3" pad="3"/>
+<connect gate="G$1" pin="4" pad="4"/>
+<connect gate="G$1" pin="5" pad="5"/>
+<connect gate="G$1" pin="6" pad="6"/>
+<connect gate="G$1" pin="7" pad="7"/>
+<connect gate="G$1" pin="8" pad="8"/>
+<connect gate="G$1" pin="9" pad="9"/>
+</connects>
+<technologies>
+<technology name="">
+<attribute name="DIGIKEY" value="WM1741-ND" constant="no"/>
+<attribute name="HEIGHT" value="6" constant="no"/>
+<attribute name="PRICE_PER" value="0.47" constant="no"/>
+<attribute name="VALUE" value="0530471210" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1970,6 +2041,7 @@
 <part name="R20" library="r_0603" deviceset="ERJ3EKF1002V" device="" value="10k"/>
 <part name="GND54" library="NETS" deviceset="GND" device=""/>
 <part name="U$43" library="NETS" deviceset="3V3" device=""/>
+<part name="CN3" library="CONNECTORs" deviceset="PICOBLADE_12_" device="TH_V" value="0530471210"/>
 </parts>
 <sheets>
 <sheet>
@@ -2334,6 +2406,10 @@
 </instance>
 <instance part="U$43" gate="G$1" x="-35.56" y="76.2" smashed="yes">
 <attribute name="VALUE" x="-35.56" y="78.74" size="1.778" layer="96" rot="R180" align="center"/>
+</instance>
+<instance part="CN3" gate="G$1" x="231.14" y="325.12" smashed="yes">
+<attribute name="NAME" x="226.06" y="345.44" size="2.286" layer="95"/>
+<attribute name="VALUE" x="226.06" y="342.9" size="2.286" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -3237,12 +3313,22 @@
 <wire x1="104.14" y1="243.84" x2="73.66" y2="243.84" width="0.1524" layer="91"/>
 <label x="76.2" y="243.84" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="9"/>
+<wire x1="238.76" y1="317.5" x2="271.78" y2="317.5" width="0.1524" layer="91"/>
+<label x="241.3" y="317.5" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="ADC_SPI_MOSI" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PA7"/>
 <wire x1="104.14" y1="238.76" x2="73.66" y2="238.76" width="0.1524" layer="91"/>
 <label x="76.2" y="238.76" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="5"/>
+<wire x1="238.76" y1="327.66" x2="271.78" y2="327.66" width="0.1524" layer="91"/>
+<label x="241.3" y="327.66" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$95" class="0">
@@ -3303,12 +3389,22 @@
 <wire x1="104.14" y1="198.12" x2="73.66" y2="198.12" width="0.1524" layer="91"/>
 <label x="76.2" y="198.12" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="1"/>
+<wire x1="238.76" y1="337.82" x2="271.78" y2="337.82" width="0.1524" layer="91"/>
+<label x="241.3" y="337.82" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="DAC_I2C_SDA" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PB7"/>
 <wire x1="104.14" y1="195.58" x2="73.66" y2="195.58" width="0.1524" layer="91"/>
 <label x="76.2" y="195.58" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="2"/>
+<wire x1="238.76" y1="335.28" x2="271.78" y2="335.28" width="0.1524" layer="91"/>
+<label x="241.3" y="335.28" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="N$111" class="0">
@@ -3877,12 +3973,22 @@
 <wire x1="144.78" y1="187.96" x2="175.26" y2="187.96" width="0.1524" layer="91"/>
 <label x="147.32" y="187.96" size="1.778" layer="95"/>
 </segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="8"/>
+<wire x1="238.76" y1="320.04" x2="271.78" y2="320.04" width="0.1524" layer="91"/>
+<label x="241.3" y="320.04" size="1.778" layer="95"/>
+</segment>
 </net>
 <net name="ADC_SPI_MISO" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PG9"/>
 <wire x1="144.78" y1="190.5" x2="175.26" y2="190.5" width="0.1524" layer="91"/>
 <label x="147.32" y="190.5" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="6"/>
+<wire x1="238.76" y1="325.12" x2="271.78" y2="325.12" width="0.1524" layer="91"/>
+<label x="241.3" y="325.12" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="SDRAM_CLK" class="0">
@@ -3995,6 +4101,42 @@
 <wire x1="-5.08" y1="68.58" x2="-5.08" y2="71.12" width="0.1524" layer="91"/>
 <junction x="-5.08" y="71.12"/>
 <pinref part="D1" gate="G$1" pin="A"/>
+</segment>
+</net>
+<net name="DGND" class="0">
+<segment>
+<pinref part="CN3" gate="G$1" pin="10"/>
+<wire x1="238.76" y1="314.96" x2="271.78" y2="314.96" width="0.1524" layer="91"/>
+<label x="241.3" y="314.96" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="11"/>
+<wire x1="238.76" y1="312.42" x2="271.78" y2="312.42" width="0.1524" layer="91"/>
+<label x="241.3" y="312.42" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="12"/>
+<wire x1="238.76" y1="309.88" x2="271.78" y2="309.88" width="0.1524" layer="91"/>
+<label x="241.3" y="309.88" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="3V3D" class="0">
+<segment>
+<pinref part="CN3" gate="G$1" pin="3"/>
+<wire x1="238.76" y1="332.74" x2="271.78" y2="332.74" width="0.1524" layer="91"/>
+<label x="241.3" y="332.74" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="CN3" gate="G$1" pin="4"/>
+<wire x1="238.76" y1="330.2" x2="271.78" y2="330.2" width="0.1524" layer="91"/>
+<label x="241.3" y="330.2" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="ADC_!DRDY" class="0">
+<segment>
+<pinref part="CN3" gate="G$1" pin="7"/>
+<wire x1="238.76" y1="322.58" x2="271.78" y2="322.58" width="0.1524" layer="91"/>
+<label x="241.3" y="322.58" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
