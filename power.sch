@@ -226,10 +226,10 @@
 <text x="-12.625" y="12.875" size="1" layer="21">&gt;NAME</text>
 </package>
 <package name="TO220">
-<wire x1="-5" y1="2.5" x2="5" y2="2.5" width="0.25" layer="21"/>
-<wire x1="5" y1="2.5" x2="5" y2="-2.5" width="0.25" layer="21"/>
-<wire x1="5" y1="-2.5" x2="-5" y2="-2.5" width="0.25" layer="21"/>
-<wire x1="-5" y1="-2.5" x2="-5" y2="2.5" width="0.25" layer="21"/>
+<wire x1="-5" y1="2.5" x2="5" y2="2.5" width="0.15" layer="21"/>
+<wire x1="5" y1="2.5" x2="5" y2="-2.5" width="0.15" layer="21"/>
+<wire x1="5" y1="-2.5" x2="-5" y2="-2.5" width="0.15" layer="21"/>
+<wire x1="-5" y1="-2.5" x2="-5" y2="2.5" width="0.15" layer="21"/>
 <rectangle x1="-5" y1="1.5" x2="5" y2="2.5" layer="21"/>
 <text x="4.5" y="-3" size="1" layer="25" rot="R180">&gt;NAME</text>
 <pad name="2" x="0" y="0" drill="1" diameter="1.75" shape="long" rot="R90"/>
@@ -2296,10 +2296,10 @@
 <library name="CONNECTORs">
 <packages>
 <package name="MOLEX_530471210">
-<wire x1="-8.375" y1="-2.05" x2="8.375" y2="-2.05" width="0.25" layer="21"/>
-<wire x1="8.375" y1="-2.05" x2="8.375" y2="1.15" width="0.25" layer="21"/>
-<wire x1="8.375" y1="1.15" x2="-8.375" y2="1.15" width="0.25" layer="21"/>
-<wire x1="-8.375" y1="1.15" x2="-8.375" y2="-2.05" width="0.25" layer="21"/>
+<wire x1="-8.375" y1="-2.05" x2="8.375" y2="-2.05" width="0.125" layer="21"/>
+<wire x1="8.375" y1="-2.05" x2="8.375" y2="1.15" width="0.125" layer="21"/>
+<wire x1="8.375" y1="1.15" x2="-8.375" y2="1.15" width="0.125" layer="21"/>
+<wire x1="-8.375" y1="1.15" x2="-8.375" y2="-2.05" width="0.125" layer="21"/>
 <pad name="3" x="4.375" y="0" drill="0.5"/>
 <pad name="1" x="6.875" y="0" drill="0.5" shape="square"/>
 <pad name="2" x="5.625" y="0" drill="0.5"/>
@@ -2588,6 +2588,8 @@
 <part name="CN1" library="CONNECTORs" deviceset="PICOBLADE_12_" device="TH_V" value="0530471210"/>
 <part name="TP3" library="MISC" deviceset="TEST_POINT_SQUARE" device=""/>
 <part name="TP4" library="MISC" deviceset="TEST_POINT_SQUARE" device=""/>
+<part name="MECH14" library="MISC" deviceset="MOUNTHOLE" device="" value="6mm x 3mm"/>
+<part name="MECH15" library="MISC" deviceset="MOUNTHOLE" device="" value="6mm x 3mm"/>
 </parts>
 <sheets>
 <sheet>
@@ -3338,6 +3340,12 @@ DIGIKEY 345-127742-ND</text>
 </instance>
 <instance part="TP4" gate="G$1" x="27.94" y="457.2" smashed="yes" rot="R90">
 <attribute name="NAME" x="25.4" y="457.2" size="1.27" layer="97" rot="R90" align="center"/>
+</instance>
+<instance part="MECH14" gate="G$1" x="383.54" y="386.08" smashed="yes">
+<attribute name="NAME" x="383.54" y="389.636" size="1.27" layer="95" align="center"/>
+</instance>
+<instance part="MECH15" gate="G$1" x="391.16" y="386.08" smashed="yes">
+<attribute name="NAME" x="391.16" y="389.636" size="1.27" layer="95" align="center"/>
 </instance>
 </instances>
 <busses>
