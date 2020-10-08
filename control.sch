@@ -3465,12 +3465,6 @@
 <label x="205.74" y="436.88" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$95" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PA12"/>
-<wire x1="104.14" y1="226.06" x2="73.66" y2="226.06" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="JTAG_TMS" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PA13"/>
@@ -3536,12 +3530,6 @@
 <pinref part="CN3" gate="G$1" pin="2"/>
 <wire x1="231.14" y1="335.28" x2="198.12" y2="335.28" width="0.1524" layer="91"/>
 <label x="200.66" y="335.28" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="N$104" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PB5"/>
-<wire x1="104.14" y1="200.66" x2="73.66" y2="200.66" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="DAC_I2C_SCL" class="0">
@@ -3661,24 +3649,6 @@
 <label x="-12.7" y="147.32" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$125" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PC10"/>
-<wire x1="104.14" y1="144.78" x2="73.66" y2="144.78" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$126" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PC11"/>
-<wire x1="104.14" y1="142.24" x2="73.66" y2="142.24" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$127" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PC12"/>
-<wire x1="104.14" y1="139.7" x2="73.66" y2="139.7" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="BTN_AMPS" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PC13"/>
@@ -3722,30 +3692,6 @@
 <pinref part="U2" gate="G$1" pin="D3"/>
 <wire x1="325.12" y1="195.58" x2="355.6" y2="195.58" width="0.1524" layer="91"/>
 <label x="327.66" y="195.58" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="N$133" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PD2"/>
-<wire x1="104.14" y1="121.92" x2="73.66" y2="121.92" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$135" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PD4"/>
-<wire x1="104.14" y1="116.84" x2="73.66" y2="116.84" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$136" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PD5"/>
-<wire x1="104.14" y1="114.3" x2="73.66" y2="114.3" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$138" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PD7"/>
-<wire x1="104.14" y1="109.22" x2="73.66" y2="109.22" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="SDRAM_D13" class="0">
@@ -3937,18 +3883,6 @@
 <label x="327.66" y="193.04" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$161" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PE1"/>
-<wire x1="144.78" y1="124.46" x2="175.26" y2="124.46" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$162" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PE0"/>
-<wire x1="144.78" y1="127" x2="175.26" y2="127" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="SDRAM_A9" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PF15"/>
@@ -4131,18 +4065,6 @@
 <label x="327.66" y="144.78" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$180" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PG14"/>
-<wire x1="144.78" y1="177.8" x2="175.26" y2="177.8" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$183" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PG11"/>
-<wire x1="144.78" y1="185.42" x2="175.26" y2="185.42" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="ADC_SPI_!CS" class="0">
 <segment>
 <pinref part="U1" gate="G$1" pin="PG10"/>
@@ -4253,12 +4175,6 @@
 <label x="261.62" y="177.8" size="1.778" layer="95"/>
 </segment>
 </net>
-<net name="N$84" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PC1"/>
-<wire x1="104.14" y1="167.64" x2="73.66" y2="167.64" width="0.1524" layer="91"/>
-</segment>
-</net>
 <net name="DISP_PWM" class="0">
 <segment>
 <pinref part="U3" gate="G$1" pin="CTRL"/>
@@ -4291,6 +4207,11 @@
 <pinref part="CN4" gate="G$1" pin="5"/>
 <wire x1="231.14" y1="431.8" x2="203.2" y2="431.8" width="0.1524" layer="91"/>
 <label x="205.74" y="431.8" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PC1"/>
+<wire x1="104.14" y1="167.64" x2="73.66" y2="167.64" width="0.1524" layer="91"/>
+<label x="76.2" y="167.64" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="BTN_6" class="0">
@@ -4352,24 +4273,6 @@
 <pinref part="U6" gate="G$1" pin="VIN+"/>
 <wire x1="86.36" y1="462.28" x2="111.76" y2="462.28" width="0.1524" layer="91"/>
 <label x="88.9" y="462.28" size="1.778" layer="95"/>
-</segment>
-</net>
-<net name="N$4" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PF6"/>
-<wire x1="144.78" y1="154.94" x2="175.26" y2="154.94" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$5" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PE2"/>
-<wire x1="144.78" y1="121.92" x2="175.26" y2="121.92" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$6" class="0">
-<segment>
-<pinref part="U1" gate="G$1" pin="PE3"/>
-<wire x1="144.78" y1="119.38" x2="175.26" y2="119.38" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
