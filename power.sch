@@ -2321,10 +2321,10 @@
 <pad name="6" x="-1.27" y="-1.27" drill="1" diameter="1.5"/>
 <pad name="7" x="-1.27" y="-3.81" drill="1" diameter="1.5"/>
 <pad name="8" x="-1.27" y="-6.35" drill="1" diameter="1.5"/>
-<wire x1="-2.54" y1="12.7" x2="2.54" y2="12.7" width="0.25" layer="21"/>
-<wire x1="2.54" y1="12.7" x2="2.54" y2="-12.7" width="0.25" layer="21"/>
-<wire x1="2.54" y1="-12.7" x2="-2.54" y2="-12.7" width="0.25" layer="21"/>
-<wire x1="-2.54" y1="-12.7" x2="-2.54" y2="12.7" width="0.25" layer="21"/>
+<wire x1="-2.54" y1="12.7" x2="2.54" y2="12.7" width="0.15" layer="21"/>
+<wire x1="2.54" y1="12.7" x2="2.54" y2="-12.7" width="0.15" layer="21"/>
+<wire x1="2.54" y1="-12.7" x2="-2.54" y2="-12.7" width="0.15" layer="21"/>
+<wire x1="-2.54" y1="-12.7" x2="-2.54" y2="12.7" width="0.15" layer="21"/>
 <text x="-2.52" y="13.79" size="1" layer="25">&gt;NAME</text>
 <pad name="9" x="-1.27" y="-8.89" drill="1" diameter="1.5"/>
 <pad name="10" x="-1.27" y="-11.43" drill="1" diameter="1.5"/>
@@ -2371,8 +2371,8 @@
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="2X10_HEADER" prefix="CN">
-<description>A 2 row, 10 column, 20 pin 0.1" header.</description>
+<deviceset name="2X10_HEADER_FEMALE" prefix="CN">
+<description>A 2 row, 10 column, 20 pin 0.1" female header.</description>
 <gates>
 <gate name="G$1" symbol="2X10PIN_HEADER" x="0" y="0"/>
 </gates>
@@ -2402,9 +2402,9 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="DIGIKEY" value="2057-PH2-20-UA-ND" constant="no"/>
-<attribute name="HEIGHT" value="10" constant="no"/>
-<attribute name="PRICE_PER" value="0.2" constant="no"/>
+<attribute name="DIGIKEY" value="2057-RS2-20-G-ND" constant="no"/>
+<attribute name="HEIGHT" value="8.5" constant="no"/>
+<attribute name="PRICE_PER" value="0.85" constant="no"/>
 <attribute name="VALUE" value="2X10 HEADER" constant="no"/>
 </technology>
 </technologies>
@@ -2630,7 +2630,7 @@
 <part name="TP4" library="MISC" deviceset="TEST_POINT_SQUARE" device=""/>
 <part name="MECH14" library="MISC" deviceset="MOUNTHOLE" device="" value="6mm x 3mm"/>
 <part name="MECH15" library="MISC" deviceset="MOUNTHOLE" device="" value="6mm x 3mm"/>
-<part name="CN2" library="CONNECTORs" deviceset="2X10_HEADER" device="" value="2X10 HEADER"/>
+<part name="CN2" library="CONNECTORs" deviceset="2X10_HEADER_FEMALE" device="" value="2X10 HEADER"/>
 <part name="U$80" library="NETS" deviceset="VOUT" device=""/>
 </parts>
 <sheets>
