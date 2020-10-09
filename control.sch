@@ -1035,8 +1035,10 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="DIGIKEY" value="" constant="no"/>
-<attribute name="FARNELL" value="" constant="no"/>
+<attribute name="DIGIKEY" value="296-40821-1-ND" constant="no"/>
+<attribute name="HEIGHT" value="2" constant="no"/>
+<attribute name="PRICE_PER" value="0.7" constant="no"/>
+<attribute name="VALUE" value="TPS61169" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -1183,8 +1185,8 @@
 </device>
 </devices>
 </deviceset>
-<deviceset name="GRM188R60J475ME19D" prefix="C">
-<description>4.7uF 6.3V X5R 10% 0603 MLCC.</description>
+<deviceset name="CL10B475KQ8NQNC" prefix="C">
+<description>4.7uF 6.3V X7R 10% 0603 MLCC.</description>
 <gates>
 <gate name="G$1" symbol="CAPACITOR" x="0" y="0"/>
 </gates>
@@ -1196,9 +1198,9 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="FARNELL" value="2362095" constant="no"/>
+<attribute name="DIGIKEY" value="CL10B475KQ8NQNC" constant="no"/>
 <attribute name="HEIGHT" value="1" constant="no"/>
-<attribute name="PRICE_PER" value="0.0414" constant="no"/>
+<attribute name="PRICE_PER" value="013" constant="no"/>
 <attribute name="VALUE" value="4.7uF 6.3V" constant="no"/>
 </technology>
 </technologies>
@@ -1823,8 +1825,9 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="FARNELL" value="2498548" constant="no"/>
-<attribute name="PRICE_PER" value="0.236" constant="no"/>
+<attribute name="DIGIKEY" value="1727-2397-1-ND" constant="no"/>
+<attribute name="HEIGHT" value="3" constant="no"/>
+<attribute name="PRICE_PER" value="0.37" constant="no"/>
 <attribute name="VALUE" value="3A 0.77V" constant="no"/>
 </technology>
 </technologies>
@@ -2073,9 +2076,9 @@
 <part name="C44" library="CAPACITORS" deviceset="GRM188R61E225KA12D" device="" value="2.2uF 25V"/>
 <part name="GND49" library="NETS" deviceset="GND" device=""/>
 <part name="U$42" library="NETS" deviceset="3V3" device=""/>
-<part name="U3" library="ICs" deviceset="TPS61169" device="DCKR"/>
+<part name="U3" library="ICs" deviceset="TPS61169" device="DCKR" value="TPS61169"/>
 <part name="U6" library="ICs" deviceset="PDQE15-Q24-S3-D" device="" value="DCDC 3V3"/>
-<part name="C45" library="CAPACITORS" deviceset="GRM188R60J475ME19D" device="" value="4.7uF 6.3V"/>
+<part name="C45" library="CAPACITORS" deviceset="CL10B475KQ8NQNC" device="" value="4.7uF 6.3V"/>
 <part name="GND50" library="NETS" deviceset="GND" device=""/>
 <part name="GND51" library="NETS" deviceset="GND" device=""/>
 <part name="L1" library="INDUCTORS" deviceset="SRN6045TA-4R7M" device="" value="4.7uH"/>
