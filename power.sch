@@ -639,21 +639,25 @@
 </connects>
 <technologies>
 <technology name="05">
-<attribute name="FARNELL" value="MC7805CTGOS-ND" constant="no"/>
+<attribute name="DIGIKEY" value="MC7805CTGOS-ND" constant="no"/>
+<attribute name="FARNELL" value="" constant="no"/>
 <attribute name="PRICE_PER" value="0.35" constant="no"/>
 <attribute name="VALUE" value="LM7805" constant="no"/>
 </technology>
 <technology name="09">
+<attribute name="DIGIKEY" value="" constant="no"/>
 <attribute name="FARNELL" value="9666230" constant="no"/>
 <attribute name="PRICE_PER" value="0.339" constant="no"/>
 <attribute name="VALUE" value="LM7809" constant="no"/>
 </technology>
 <technology name="12">
+<attribute name="DIGIKEY" value="" constant="no"/>
 <attribute name="FARNELL" value="2296054" constant="no"/>
 <attribute name="PRICE_PER" value="0.391" constant="no"/>
 <attribute name="VALUE" value="LM7812" constant="no"/>
 </technology>
 <technology name="15">
+<attribute name="DIGIKEY" value="" constant="no"/>
 <attribute name="FARNELL" value="9666117" constant="no"/>
 <attribute name="PRICE_PER" value="0.456" constant="no"/>
 <attribute name="VALUE" value="LM7815" constant="no"/>
@@ -1158,7 +1162,8 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="FARNELL" value="1427360" constant="no"/>
+<attribute name="DIGIKEY" value="IXTK180N15P-ND" constant="no"/>
+<attribute name="HEIGHT" value="29" constant="no"/>
 <attribute name="PRICE_PER" value="9.57" constant="no"/>
 <attribute name="VALUE" value="IXTK180N15P" constant="no"/>
 </technology>
@@ -1203,7 +1208,8 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="FARNELL" value="2212846" constant="no"/>
+<attribute name="DIGIKEY" value="SPD15P10PLGBTMA1CT-ND" constant="no"/>
+<attribute name="HEIGHT" value="4" constant="no"/>
 <attribute name="PRICE_PER" value="1.29" constant="no"/>
 <attribute name="VALUE" value="SPD15P10PL" constant="no"/>
 </technology>
@@ -2037,8 +2043,9 @@
 </connects>
 <technologies>
 <technology name="">
-<attribute name="FARNELL" value="2498548" constant="no"/>
-<attribute name="PRICE_PER" value="0.236" constant="no"/>
+<attribute name="DIGIKEY" value="1727-2397-1-ND" constant="no"/>
+<attribute name="HEIGHT" value="3" constant="no"/>
+<attribute name="PRICE_PER" value="0.37" constant="no"/>
 <attribute name="VALUE" value="3A 0.77V" constant="no"/>
 </technology>
 </technologies>
@@ -2638,8 +2645,6 @@
 <plain>
 <text x="63.5" y="375.92" size="1.778" layer="94" rot="R180">OUTB = 0V WHEN VBAT &gt; 35V
 OUTA = 0V WHEN VBAT &lt; 9.2V</text>
-<text x="287.02" y="195.58" size="1.778" layer="95">HEATSINK
-DIGIKEY 345-127742-ND</text>
 </plain>
 <instances>
 <instance part="R1" gate="G$1" x="284.48" y="175.26" smashed="yes">

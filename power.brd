@@ -6,7 +6,7 @@
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.125" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.125" altunitdist="mm" altunit="mm"/>
+<grid distance="0.25" unitdist="mm" unit="mm" style="lines" multiple="1" display="yes" altdistance="0.125" altunitdist="mm" altunit="mm"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
 <layer number="2" name="PWR" color="16" fill="1" visible="no" active="yes"/>
@@ -1095,24 +1095,28 @@ einem neuen Namen ab.</description>
 <attribute name="PRICE_PER" value="0.29" x="-78.425" y="82.755" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="D3" library="DIODES" package="SOD128" value="3A 0.77V" x="-37.75" y="46.5" smashed="yes" rot="R270">
-<attribute name="FARNELL" value="2498548" x="-117.76" y="-20.81" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY" value="1727-2397-1-ND" x="-37.75" y="46.5" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="3" x="-37.75" y="46.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="-36.125" y="49.5" size="1" layer="25" rot="R270"/>
-<attribute name="PRICE_PER" value="0.236" x="-117.76" y="-20.81" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PRICE_PER" value="0.37" x="-117.76" y="-20.81" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="D4" library="DIODES" package="SOD128" value="3A 0.77V" x="-37.75" y="53" smashed="yes" rot="R270">
-<attribute name="FARNELL" value="2498548" x="-117.76" y="-21.93" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY" value="1727-2397-1-ND" x="-37.75" y="53" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="3" x="-37.75" y="53" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="-36.125" y="56" size="1" layer="25" rot="R270"/>
-<attribute name="PRICE_PER" value="0.236" x="-117.76" y="-21.93" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PRICE_PER" value="0.37" x="-117.76" y="-21.93" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="D5" library="DIODES" package="SOD128" value="3A 0.77V" x="-41.25" y="46.5" smashed="yes" rot="R270">
-<attribute name="FARNELL" value="2498548" x="-121.26" y="-36.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY" value="1727-2397-1-ND" x="-41.25" y="46.5" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="3" x="-41.25" y="46.5" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="-42.875" y="43.5" size="1" layer="25" rot="R90"/>
-<attribute name="PRICE_PER" value="0.236" x="-121.26" y="-36.05" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PRICE_PER" value="0.37" x="-121.26" y="-36.05" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="D6" library="DIODES" package="SOD128" value="3A 0.77V" x="-41.25" y="53" smashed="yes" rot="R270">
-<attribute name="FARNELL" value="2498548" x="-121.26" y="-37.17" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="DIGIKEY" value="1727-2397-1-ND" x="-41.25" y="53" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="HEIGHT" value="3" x="-41.25" y="53" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="-42.875" y="50" size="1" layer="25" rot="R90"/>
-<attribute name="PRICE_PER" value="0.236" x="-121.26" y="-37.17" size="1.778" layer="27" rot="R270" display="off"/>
+<attribute name="PRICE_PER" value="0.37" x="-121.26" y="-37.17" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="D7" library="DIODES" package="SOD_523" value="BZX585-C10" x="-25.25" y="41.75" smashed="yes" rot="R90">
 <attribute name="DIGIKEY" value="BZT52C10T-7DICT-ND" x="75.08" y="98.9" size="1.778" layer="27" rot="R90" display="off"/>
@@ -1155,11 +1159,13 @@ einem neuen Namen ab.</description>
 <attribute name="PRICE_PER" value="1" x="41.57" y="-7.42" size="1.778" layer="27" display="off"/>
 </element>
 <element name="Q1" library="TRANSISTORs" package="TO264F" value="IXTK180N15P" x="40" y="-35" smashed="yes" rot="MR90">
-<attribute name="FARNELL" value="1427360" x="36.19" y="-12.14" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="DIGIKEY" value="IXTK180N15P-ND" x="40" y="-35" size="1.778" layer="28" rot="MR90" display="off"/>
+<attribute name="HEIGHT" value="29" x="40" y="-35" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="PRICE_PER" value="9.57" x="36.19" y="-12.14" size="1.778" layer="28" rot="MR90" display="off"/>
 </element>
 <element name="Q2" library="TRANSISTORs" package="TO264F" value="IXTK180N15P" x="-40" y="-35" smashed="yes" rot="MR270">
-<attribute name="FARNELL" value="1427360" x="-36.19" y="-79.45" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="DIGIKEY" value="IXTK180N15P-ND" x="-40" y="-35" size="1.778" layer="28" rot="MR270" display="off"/>
+<attribute name="HEIGHT" value="29" x="-40" y="-35" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="NAME" x="-44.5" y="-25" size="1" layer="22" rot="MR0"/>
 <attribute name="PRICE_PER" value="9.57" x="-36.19" y="-79.45" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
@@ -1170,7 +1176,8 @@ einem neuen Namen ab.</description>
 <attribute name="PRICE_PER" value="0.15" x="37.755" y="-137.385" size="1.778" layer="27" display="off"/>
 </element>
 <element name="Q4" library="TRANSISTORs" package="TO252" value="SPD15P10PL" x="-19.25" y="37.25" smashed="yes" rot="R180">
-<attribute name="FARNELL" value="2212846" x="-51" y="95.67" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DIGIKEY" value="SPD15P10PLGBTMA1CT-ND" x="-19.25" y="37.25" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="HEIGHT" value="4" x="-19.25" y="37.25" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="-15.75" y="31.875" size="1" layer="25" rot="R180"/>
 <attribute name="PRICE_PER" value="1.29" x="-51" y="95.67" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
@@ -1403,7 +1410,8 @@ einem neuen Namen ab.</description>
 <attribute name="PRICE_PER" value="1.73" x="-81.905" y="-17.31" size="1.778" layer="27" rot="R270" display="off"/>
 </element>
 <element name="U8" library="ICs" package="TO220" value="LM7805" x="9.75" y="22.75" smashed="yes" rot="R180">
-<attribute name="FARNELL" value="MC7805CTGOS-ND" x="-65.18" y="93.87" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="DIGIKEY" value="MC7805CTGOS-ND" x="9.75" y="22.75" size="1.778" layer="27" rot="R180" display="off"/>
+<attribute name="FARNELL" value="" x="-65.18" y="93.87" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="NAME" x="4.5" y="20.25" size="1" layer="25" rot="R90"/>
 <attribute name="PRICE_PER" value="0.35" x="-65.18" y="93.87" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
