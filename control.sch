@@ -2723,11 +2723,6 @@
 <label x="254" y="441.96" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="CN4" gate="G$1" pin="16"/>
-<wire x1="251.46" y1="431.8" x2="279.4" y2="431.8" width="0.1524" layer="91"/>
-<label x="254" y="431.8" size="1.778" layer="95"/>
-</segment>
-<segment>
 <pinref part="CN3" gate="G$1" pin="19"/>
 <wire x1="251.46" y1="335.28" x2="254" y2="335.28" width="0.1524" layer="91"/>
 <wire x1="254" y1="335.28" x2="254" y2="332.74" width="0.1524" layer="91"/>
@@ -4276,6 +4271,18 @@
 <pinref part="U6" gate="G$1" pin="VIN+"/>
 <wire x1="86.36" y1="462.28" x2="111.76" y2="462.28" width="0.1524" layer="91"/>
 <label x="88.9" y="462.28" size="1.778" layer="95"/>
+</segment>
+</net>
+<net name="OUTPUT_RELAY_EN" class="0">
+<segment>
+<pinref part="CN4" gate="G$1" pin="16"/>
+<wire x1="251.46" y1="431.8" x2="279.4" y2="431.8" width="0.1524" layer="91"/>
+<label x="254" y="431.8" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="U1" gate="G$1" pin="PF6"/>
+<wire x1="144.78" y1="154.94" x2="175.26" y2="154.94" width="0.1524" layer="91"/>
+<label x="147.32" y="154.94" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
