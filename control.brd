@@ -354,68 +354,6 @@
 <wire x1="-11.5" y1="10.25" x2="-11.5" y2="-11.5" width="0.125" layer="21"/>
 <wire x1="-10.25" y1="11.5" x2="-11.5" y2="10.25" width="0.125" layer="21"/>
 </package>
-<package name="TSOPII_54L_100MIL">
-<smd name="1" x="-6" y="10.4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="2" x="-6" y="9.6" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="3" x="-6" y="8.8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="4" x="-6" y="8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="5" x="-6" y="7.2" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="6" x="-6" y="6.4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="7" x="-6" y="5.6" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="8" x="-6" y="4.8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="9" x="-6" y="4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="10" x="-6" y="3.2" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="11" x="-6" y="2.4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="12" x="-6" y="1.6" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="13" x="-6" y="0.8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="14" x="-6" y="0" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="15" x="-6" y="-0.8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="16" x="-6" y="-1.6" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="17" x="-6" y="-2.4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="18" x="-6" y="-3.2" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="19" x="-6" y="-4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="20" x="-6" y="-4.8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="21" x="-6" y="-5.6" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="22" x="-6" y="-6.4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="23" x="-6" y="-7.2" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="24" x="-6" y="-8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="25" x="-6" y="-8.8" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="26" x="-6" y="-9.6" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="27" x="-6" y="-10.4" dx="0.4" dy="1.8" layer="1" rot="R90"/>
-<smd name="28" x="6" y="-10.4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="29" x="6" y="-9.6" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="30" x="6" y="-8.8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="31" x="6" y="-8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="32" x="6" y="-7.2" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="33" x="6" y="-6.4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="34" x="6" y="-5.6" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="35" x="6" y="-4.8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="36" x="6" y="-4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="37" x="6" y="-3.2" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="38" x="6" y="-2.4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="39" x="6" y="-1.6" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="40" x="6" y="-0.8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="41" x="6" y="0" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="42" x="6" y="0.8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="43" x="6" y="1.6" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="44" x="6" y="2.4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="45" x="6" y="3.2" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="46" x="6" y="4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="47" x="6" y="4.8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="48" x="6" y="5.6" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="49" x="6" y="6.4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="50" x="6" y="7.2" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="51" x="6" y="8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="52" x="6" y="8.8" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="53" x="6" y="9.6" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<smd name="54" x="6" y="10.4" dx="0.4" dy="1.8" layer="1" rot="R270"/>
-<wire x1="-7.125" y1="-11.375" x2="7.125" y2="-11.375" width="0.15" layer="21"/>
-<wire x1="7.125" y1="-11.375" x2="7.125" y2="11.375" width="0.15" layer="21"/>
-<wire x1="7.125" y1="11.375" x2="-7.125" y2="11.375" width="0.15" layer="21"/>
-<wire x1="-7.125" y1="11.375" x2="-7.125" y2="-11.375" width="0.15" layer="21"/>
-<circle x="-3.2" y="9.2" radius="0.4" width="0.15" layer="21"/>
-<text x="-7.125" y="11.5" size="1.27" layer="25">&gt;NAME</text>
-</package>
 <package name="SOT23-6">
 <text x="-1.5" y="2.25" size="1" layer="25">&gt;NAME</text>
 <smd name="4" x="-0.95" y="-1.35" dx="0.6" dy="1.1" layer="1"/>
@@ -992,53 +930,6 @@ einem neuen Namen ab.</description>
 <attribute name="NAME" x="13.125" y="30.625" size="1.016" layer="26" rot="MR270"/>
 <attribute name="PRICE_PER" value="0.14" x="12.5" y="32.125" size="1.778" layer="28" rot="MR270" display="off"/>
 </element>
-<element name="U2" library="ICs" package="TSOPII_54L_100MIL" value="AS4C8M16SA" x="55" y="45" locked="yes" smashed="yes" rot="MR0">
-<attribute name="DIGIKEY" value="1450-1269-ND" x="55" y="45" locked="yes" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="62.1" y="56.5" locked="yes" size="1" layer="26" rot="MR0"/>
-<attribute name="PRICE_PER" value="1.41" x="55" y="45" locked="yes" size="1.778" layer="28" rot="MR0" display="off"/>
-</element>
-<element name="C18" library="CAPACITORS" package="0603" value="100nF 16V" x="46.5" y="51.375" smashed="yes" rot="MR180">
-<attribute name="DIGIKEY" value="1276-6582-1-ND" x="46.5" y="51.375" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="HEIGHT" value="1" x="46.5" y="51.375" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="NAME" x="45" y="50.625" size="1.016" layer="26" rot="MR180"/>
-<attribute name="PRICE_PER" value="0.08" x="46.5" y="51.375" size="1.778" layer="28" rot="MR180" display="off"/>
-</element>
-<element name="C19" library="CAPACITORS" package="0603" value="100nF 16V" x="46.5" y="46.625" smashed="yes" rot="MR180">
-<attribute name="DIGIKEY" value="1276-6582-1-ND" x="42.75" y="49.875" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="HEIGHT" value="1" x="42.75" y="49.875" size="1.778" layer="28" rot="MR180" display="off"/>
-<attribute name="NAME" x="45" y="45.875" size="1.016" layer="26" rot="MR180"/>
-<attribute name="PRICE_PER" value="0.08" x="42.75" y="49.875" size="1.778" layer="28" rot="MR180" display="off"/>
-</element>
-<element name="C20" library="CAPACITORS" package="0603" value="100nF 16V" x="63.5" y="34.625" smashed="yes" rot="MR0">
-<attribute name="DIGIKEY" value="1276-6582-1-ND" x="63.5" y="31.375" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="HEIGHT" value="1" x="63.5" y="31.375" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="65" y="35.375" size="1.016" layer="26" rot="MR0"/>
-<attribute name="PRICE_PER" value="0.08" x="63.5" y="31.375" size="1.778" layer="28" rot="MR0" display="off"/>
-</element>
-<element name="C21" library="CAPACITORS" package="0603" value="100nF 16V" x="63.5" y="45" smashed="yes" rot="MR0">
-<attribute name="DIGIKEY" value="1276-6582-1-ND" x="67.25" y="38.5" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="HEIGHT" value="1" x="67.25" y="38.5" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="65" y="45.75" size="1.016" layer="26" rot="MR0"/>
-<attribute name="PRICE_PER" value="0.08" x="67.25" y="38.5" size="1.778" layer="28" rot="MR0" display="off"/>
-</element>
-<element name="C22" library="CAPACITORS" package="0603" value="100nF 16V" x="63.5" y="49" smashed="yes" rot="MR0">
-<attribute name="DIGIKEY" value="1276-6582-1-ND" x="63.5" y="42.5" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="HEIGHT" value="1" x="63.5" y="42.5" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="65" y="49.75" size="1.016" layer="26" rot="MR0"/>
-<attribute name="PRICE_PER" value="0.08" x="63.5" y="42.5" size="1.778" layer="28" rot="MR0" display="off"/>
-</element>
-<element name="C23" library="CAPACITORS" package="0603" value="100nF 16V" x="63.5" y="53.75" smashed="yes" rot="MR0">
-<attribute name="DIGIKEY" value="1276-6582-1-ND" x="67.25" y="44" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="HEIGHT" value="1" x="67.25" y="44" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="65" y="54.375" size="1.016" layer="26" rot="MR180"/>
-<attribute name="PRICE_PER" value="0.08" x="67.25" y="44" size="1.778" layer="28" rot="MR0" display="off"/>
-</element>
-<element name="C24" library="CAPACITORS" package="0603" value="100nF 16V" x="63.5" y="55.5" smashed="yes" rot="MR0">
-<attribute name="DIGIKEY" value="1276-6582-1-ND" x="63.5" y="45.75" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="HEIGHT" value="1" x="63.5" y="45.75" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="NAME" x="65" y="56.125" size="1.016" layer="26" rot="MR180"/>
-<attribute name="PRICE_PER" value="0.08" x="63.5" y="45.75" size="1.778" layer="28" rot="MR0" display="off"/>
-</element>
 <element name="U4" library="ICs" package="SOT23-6" value="USBLC6-2SC6" x="-76" y="90" smashed="yes" rot="MR90">
 <attribute name="DIGIKEY" value="497-11882-1-ND" x="-56.75" y="76.25" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="HEIGHT" value="1.5" x="-56.75" y="76.25" size="1.778" layer="28" rot="MR90" display="off"/>
@@ -1477,20 +1368,6 @@ einem neuen Namen ab.</description>
 <contactref element="R2" pad="1"/>
 <contactref element="C16" pad="2"/>
 <contactref element="C15" pad="2"/>
-<contactref element="U2" pad="28"/>
-<contactref element="U2" pad="41"/>
-<contactref element="U2" pad="54"/>
-<contactref element="U2" pad="52"/>
-<contactref element="U2" pad="6"/>
-<contactref element="U2" pad="46"/>
-<contactref element="U2" pad="12"/>
-<contactref element="C18" pad="1"/>
-<contactref element="C19" pad="1"/>
-<contactref element="C20" pad="1"/>
-<contactref element="C21" pad="1"/>
-<contactref element="C22" pad="1"/>
-<contactref element="C23" pad="1"/>
-<contactref element="C24" pad="1"/>
 <contactref element="U4" pad="2"/>
 <contactref element="U5" pad="5" route="any" routetag="G$1.GND"/>
 <contactref element="U5" pad="13" route="any" routetag="G$1.GND"/>
@@ -1611,39 +1488,6 @@ einem neuen Namen ab.</description>
 <contactref element="C46" pad="1"/>
 <contactref element="R19" pad="1"/>
 <contactref element="R20" pad="1"/>
-<wire x1="49" y1="55.4" x2="50.225" y2="55.4" width="0.25" layer="16"/>
-<wire x1="50.225" y1="55.4" x2="50.25" y2="55.375" width="0.25" layer="16"/>
-<via x="50.25" y="55.375" extent="1-16" drill="0.3"/>
-<wire x1="49" y1="53.8" x2="50.2" y2="53.8" width="0.25" layer="16"/>
-<wire x1="50.2" y1="53.8" x2="50.25" y2="53.75" width="0.25" layer="16"/>
-<via x="50.25" y="53.75" extent="1-16" drill="0.3"/>
-<wire x1="49" y1="49" x2="50.25" y2="49" width="0.25" layer="16"/>
-<via x="50.25" y="49" extent="1-16" drill="0.3"/>
-<wire x1="49" y1="45" x2="50.25" y2="45" width="0.25" layer="16"/>
-<via x="50.25" y="45" extent="1-16" drill="0.3"/>
-<wire x1="49" y1="34.6" x2="50.225" y2="34.6" width="0.25" layer="16"/>
-<wire x1="50.225" y1="34.6" x2="50.25" y2="34.625" width="0.25" layer="16"/>
-<via x="50.25" y="34.625" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="46.6" x2="59.775" y2="46.6" width="0.25" layer="16"/>
-<wire x1="59.775" y1="46.6" x2="59.75" y2="46.625" width="0.25" layer="16"/>
-<via x="59.75" y="46.625" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="51.4" x2="59.775" y2="51.4" width="0.25" layer="16"/>
-<wire x1="59.775" y1="51.4" x2="59.75" y2="51.375" width="0.25" layer="16"/>
-<via x="59.75" y="51.375" extent="1-16" drill="0.3"/>
-<wire x1="64.25" y1="55.5" x2="65.25" y2="55.5" width="0.25" layer="16"/>
-<via x="65.25" y="55.5" extent="1-16" drill="0.3"/>
-<wire x1="64.25" y1="53.75" x2="65.25" y2="53.75" width="0.25" layer="16"/>
-<via x="65.25" y="53.75" extent="1-16" drill="0.3"/>
-<wire x1="64.25" y1="49" x2="65.25" y2="49" width="0.25" layer="16"/>
-<via x="65.25" y="49" extent="1-16" drill="0.3"/>
-<wire x1="64.25" y1="45" x2="65.25" y2="45" width="0.25" layer="16"/>
-<via x="65.25" y="45" extent="1-16" drill="0.3"/>
-<wire x1="64.25" y1="34.625" x2="65.25" y2="34.625" width="0.25" layer="16"/>
-<via x="65.25" y="34.625" extent="1-16" drill="0.3"/>
-<wire x1="45.75" y1="46.625" x2="44.75" y2="46.625" width="0.25" layer="16"/>
-<via x="44.75" y="46.625" extent="1-16" drill="0.3"/>
-<wire x1="45.75" y1="51.375" x2="44.75" y2="51.375" width="0.25" layer="16"/>
-<via x="44.75" y="51.375" extent="1-16" drill="0.3"/>
 <wire x1="25.75" y1="58.625" x2="25.75" y2="59.625" width="0.15" layer="16"/>
 <via x="25.75" y="59.625" extent="1-16" drill="0.3"/>
 <wire x1="-51" y1="35" x2="-50" y2="35" width="0.15" layer="16"/>
@@ -1784,52 +1628,38 @@ einem neuen Namen ab.</description>
 <contactref element="U1" pad="143"/>
 <contactref element="R1" pad="2"/>
 <contactref element="U1" pad="32"/>
-<contactref element="U2" pad="27"/>
-<contactref element="U2" pad="14"/>
-<contactref element="U2" pad="1"/>
-<contactref element="U2" pad="43" route="any" routetag="G$1.VDDQ"/>
-<contactref element="U2" pad="3" route="any" routetag="G$1.VDDQ"/>
-<contactref element="U2" pad="9" route="any" routetag="G$1.VDDQ"/>
-<contactref element="U2" pad="49" route="any" routetag="G$1.VDDQ"/>
-<contactref element="C18" pad="2"/>
-<contactref element="C19" pad="2"/>
-<contactref element="C20" pad="2"/>
-<contactref element="C21" pad="2"/>
-<contactref element="C22" pad="2"/>
-<contactref element="C23" pad="2"/>
-<contactref element="C24" pad="2"/>
 <contactref element="SW1" pad="1"/>
-<contactref element="SW1" pad="2"/>
+<contactref element="SW1" pad="3"/>
 <contactref element="SW2" pad="1"/>
-<contactref element="SW2" pad="2"/>
+<contactref element="SW2" pad="3"/>
 <contactref element="SW3" pad="1"/>
-<contactref element="SW3" pad="2"/>
+<contactref element="SW3" pad="3"/>
 <contactref element="SW4" pad="1"/>
-<contactref element="SW4" pad="2"/>
+<contactref element="SW4" pad="3"/>
 <contactref element="SW5" pad="1"/>
-<contactref element="SW5" pad="2"/>
+<contactref element="SW5" pad="3"/>
 <contactref element="SW6" pad="1"/>
-<contactref element="SW6" pad="2"/>
+<contactref element="SW6" pad="3"/>
 <contactref element="SW7" pad="1"/>
-<contactref element="SW7" pad="2"/>
+<contactref element="SW7" pad="3"/>
 <contactref element="SW8" pad="1"/>
-<contactref element="SW8" pad="2"/>
+<contactref element="SW8" pad="3"/>
 <contactref element="SW9" pad="1"/>
-<contactref element="SW9" pad="2"/>
+<contactref element="SW9" pad="3"/>
 <contactref element="SW10" pad="1"/>
-<contactref element="SW10" pad="2"/>
+<contactref element="SW10" pad="3"/>
 <contactref element="SW11" pad="1"/>
-<contactref element="SW11" pad="2"/>
+<contactref element="SW11" pad="3"/>
 <contactref element="SW12" pad="1"/>
-<contactref element="SW12" pad="2"/>
+<contactref element="SW12" pad="3"/>
 <contactref element="SW13" pad="1"/>
-<contactref element="SW13" pad="2"/>
+<contactref element="SW13" pad="3"/>
 <contactref element="SW14" pad="1"/>
-<contactref element="SW14" pad="2"/>
+<contactref element="SW14" pad="3"/>
 <contactref element="SW15" pad="1"/>
-<contactref element="SW15" pad="2"/>
+<contactref element="SW15" pad="3"/>
 <contactref element="SW16" pad="1"/>
-<contactref element="SW16" pad="2"/>
+<contactref element="SW16" pad="3"/>
 <contactref element="CN1" pad="4"/>
 <contactref element="C43" pad="2"/>
 <contactref element="C44" pad="2"/>
@@ -1892,38 +1722,6 @@ einem neuen Namen ab.</description>
 <contactref element="U3" pad="5"/>
 <contactref element="C45" pad="2"/>
 <contactref element="L1" pad="1"/>
-<wire x1="61" y1="55.4" x2="62.65" y2="55.4" width="0.25" layer="16"/>
-<wire x1="62.65" y1="55.4" x2="62.75" y2="55.5" width="0.25" layer="16"/>
-<wire x1="62.75" y1="55.5" x2="62.75" y2="56.5" width="0.25" layer="16"/>
-<via x="62.75" y="56.5" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="53.8" x2="62.7" y2="53.8" width="0.25" layer="16"/>
-<wire x1="62.7" y1="53.8" x2="62.75" y2="53.75" width="0.25" layer="16"/>
-<wire x1="62.75" y1="53.75" x2="62.75" y2="52.75" width="0.25" layer="16"/>
-<via x="62.75" y="52.75" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="49" x2="62.75" y2="49" width="0.25" layer="16"/>
-<wire x1="62.75" y1="49" x2="62.75" y2="50" width="0.25" layer="16"/>
-<via x="62.75" y="50" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="45" x2="62.75" y2="45" width="0.25" layer="16"/>
-<wire x1="62.75" y1="45" x2="62.75" y2="46" width="0.25" layer="16"/>
-<via x="62.75" y="46" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="34.6" x2="61.025" y2="34.625" width="0.25" layer="16"/>
-<wire x1="61.025" y1="34.625" x2="62.75" y2="34.625" width="0.25" layer="16"/>
-<wire x1="62.75" y1="34.625" x2="62.75" y2="33.625" width="0.25" layer="16"/>
-<via x="62.75" y="33.625" extent="1-16" drill="0.3"/>
-<wire x1="47.25" y1="46.625" x2="48.975" y2="46.625" width="0.25" layer="16"/>
-<wire x1="48.975" y1="46.625" x2="49" y2="46.6" width="0.25" layer="16"/>
-<wire x1="47.25" y1="46.625" x2="46.75" y2="47.125" width="0.25" layer="16"/>
-<via x="46.75" y="47.125" extent="1-16" drill="0.3"/>
-<wire x1="49" y1="51.4" x2="47.275" y2="51.4" width="0.25" layer="16"/>
-<wire x1="47.275" y1="51.4" x2="47.25" y2="51.375" width="0.25" layer="16"/>
-<wire x1="47.25" y1="51.375" x2="47.25" y2="52.375" width="0.25" layer="16"/>
-<via x="47.25" y="52.375" extent="1-16" drill="0.3"/>
-<contactref element="U2" pad="39"/>
-<contactref element="U2" pad="15"/>
-<wire x1="49" y1="43.4" x2="50.225" y2="43.4" width="0.25" layer="16"/>
-<wire x1="50.225" y1="43.4" x2="50.25" y2="43.375" width="0.25" layer="16"/>
-<via x="50.25" y="43.375" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="44.2" x2="61" y2="45" width="0.25" layer="16"/>
 <wire x1="-51.875" y1="39.625" x2="-51.875" y2="41.875" width="0.5" layer="16"/>
 <wire x1="-52.3" y1="38.075" x2="-52.3" y2="39.2" width="0.5" layer="16"/>
 <wire x1="-52.3" y1="39.2" x2="-52.25" y2="39.25" width="0.5" layer="16"/>
@@ -2085,10 +1883,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$48">
 <contactref element="SW1" pad="4"/>
-<contactref element="SW1" pad="3"/>
+<contactref element="SW1" pad="2"/>
 <contactref element="R3" pad="2"/>
 <wire x1="-54" y1="-30" x2="-56.25" y2="-30" width="0.15" layer="16"/>
 <wire x1="-56.25" y1="-30" x2="-56.25" y2="-35" width="0.15" layer="16"/>
+<wire x1="-56.25" y1="-35" x2="-68.75" y2="-35" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_OUT_CONT">
 <contactref element="R4" pad="1"/>
@@ -2112,10 +1911,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$50">
 <contactref element="SW2" pad="4"/>
-<contactref element="SW2" pad="3"/>
+<contactref element="SW2" pad="2"/>
 <contactref element="R4" pad="2"/>
 <wire x1="-54" y1="-55" x2="-56.25" y2="-55" width="0.15" layer="16"/>
 <wire x1="-56.25" y1="-55" x2="-56.25" y2="-60" width="0.15" layer="16"/>
+<wire x1="-56.25" y1="-60" x2="-68.75" y2="-60" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_7">
 <contactref element="R5" pad="1"/>
@@ -2137,10 +1937,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$52">
 <contactref element="SW3" pad="4"/>
-<contactref element="SW3" pad="3"/>
+<contactref element="SW3" pad="2"/>
 <contactref element="R5" pad="2"/>
 <wire x1="-28.875" y1="-17.5" x2="-31.25" y2="-17.5" width="0.15" layer="16"/>
 <wire x1="-31.25" y1="-17.5" x2="-31.25" y2="-22.5" width="0.15" layer="16"/>
+<wire x1="-31.25" y1="-22.5" x2="-43.75" y2="-22.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_4">
 <contactref element="R6" pad="1"/>
@@ -2164,10 +1965,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$54">
 <contactref element="SW4" pad="4"/>
-<contactref element="SW4" pad="3"/>
+<contactref element="SW4" pad="2"/>
 <contactref element="R6" pad="2"/>
 <wire x1="-29" y1="-42.5" x2="-31.25" y2="-42.5" width="0.15" layer="16"/>
 <wire x1="-31.25" y1="-42.5" x2="-31.25" y2="-47.5" width="0.15" layer="16"/>
+<wire x1="-31.25" y1="-47.5" x2="-43.75" y2="-47.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_1">
 <contactref element="R7" pad="1"/>
@@ -2191,10 +1993,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$56">
 <contactref element="SW5" pad="4"/>
-<contactref element="SW5" pad="3"/>
+<contactref element="SW5" pad="2"/>
 <contactref element="R7" pad="2"/>
 <wire x1="-29" y1="-67.5" x2="-31.25" y2="-67.5" width="0.15" layer="16"/>
 <wire x1="-31.25" y1="-67.5" x2="-31.25" y2="-72.5" width="0.15" layer="16"/>
+<wire x1="-31.25" y1="-72.5" x2="-43.75" y2="-72.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_8">
 <contactref element="R8" pad="1"/>
@@ -2216,10 +2019,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$58">
 <contactref element="SW6" pad="4"/>
-<contactref element="SW6" pad="3"/>
+<contactref element="SW6" pad="2"/>
 <contactref element="R8" pad="2"/>
 <wire x1="-4" y1="-17.5" x2="-6.25" y2="-17.5" width="0.15" layer="16"/>
 <wire x1="-6.25" y1="-17.5" x2="-6.25" y2="-22.5" width="0.15" layer="16"/>
+<wire x1="-6.25" y1="-22.5" x2="-18.75" y2="-22.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_5">
 <contactref element="R9" pad="1"/>
@@ -2243,10 +2047,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$60">
 <contactref element="SW7" pad="4"/>
-<contactref element="SW7" pad="3"/>
+<contactref element="SW7" pad="2"/>
 <contactref element="R9" pad="2"/>
 <wire x1="-4" y1="-42.5" x2="-6.25" y2="-42.5" width="0.15" layer="16"/>
 <wire x1="-6.25" y1="-42.5" x2="-6.25" y2="-47.5" width="0.15" layer="16"/>
+<wire x1="-6.25" y1="-47.5" x2="-18.75" y2="-47.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_2">
 <contactref element="R10" pad="1"/>
@@ -2277,10 +2082,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$62">
 <contactref element="SW8" pad="4"/>
-<contactref element="SW8" pad="3"/>
+<contactref element="SW8" pad="2"/>
 <contactref element="R10" pad="2"/>
 <wire x1="-4" y1="-67.5" x2="-6.25" y2="-67.5" width="0.15" layer="16"/>
 <wire x1="-6.25" y1="-67.5" x2="-6.25" y2="-72.5" width="0.15" layer="16"/>
+<wire x1="-6.25" y1="-72.5" x2="-18.75" y2="-72.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_9">
 <contactref element="R11" pad="1"/>
@@ -2297,10 +2103,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$64">
 <contactref element="SW9" pad="4"/>
-<contactref element="SW9" pad="3"/>
+<contactref element="SW9" pad="2"/>
 <contactref element="R11" pad="2"/>
 <wire x1="21.125" y1="-17.5" x2="18.75" y2="-17.5" width="0.15" layer="16"/>
 <wire x1="18.75" y1="-17.5" x2="18.75" y2="-22.5" width="0.15" layer="16"/>
+<wire x1="18.75" y1="-22.5" x2="6.25" y2="-22.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_6">
 <contactref element="R12" pad="1"/>
@@ -2320,10 +2127,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$66">
 <contactref element="SW10" pad="4"/>
-<contactref element="SW10" pad="3"/>
+<contactref element="SW10" pad="2"/>
 <contactref element="R12" pad="2"/>
 <wire x1="18.75" y1="-47.5" x2="18.75" y2="-42.5" width="0.15" layer="16"/>
 <wire x1="18.75" y1="-42.5" x2="21.125" y2="-42.5" width="0.15" layer="16"/>
+<wire x1="18.75" y1="-47.5" x2="6.25" y2="-47.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_3">
 <contactref element="R13" pad="1"/>
@@ -2339,10 +2147,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$68">
 <contactref element="SW11" pad="4"/>
-<contactref element="SW11" pad="3"/>
+<contactref element="SW11" pad="2"/>
 <contactref element="R13" pad="2"/>
 <wire x1="18.75" y1="-72.5" x2="18.75" y2="-67.5" width="0.15" layer="16"/>
 <wire x1="18.75" y1="-67.5" x2="21.125" y2="-67.5" width="0.15" layer="16"/>
+<wire x1="18.75" y1="-72.5" x2="6.25" y2="-72.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_CANCEL">
 <contactref element="R14" pad="1"/>
@@ -2359,10 +2168,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$70">
 <contactref element="SW12" pad="4"/>
-<contactref element="SW12" pad="3"/>
+<contactref element="SW12" pad="2"/>
 <contactref element="R14" pad="2"/>
 <wire x1="43.75" y1="-22.5" x2="43.75" y2="-17.5" width="0.15" layer="16"/>
 <wire x1="43.75" y1="-17.5" x2="46.125" y2="-17.5" width="0.15" layer="16"/>
+<wire x1="31.25" y1="-22.5" x2="43.75" y2="-22.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_DP">
 <contactref element="R15" pad="1"/>
@@ -2382,10 +2192,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$72">
 <contactref element="SW13" pad="4"/>
-<contactref element="SW13" pad="3"/>
+<contactref element="SW13" pad="2"/>
 <contactref element="R15" pad="2"/>
 <wire x1="43.75" y1="-47.5" x2="43.75" y2="-42.5" width="0.15" layer="16"/>
 <wire x1="43.75" y1="-42.5" x2="46.125" y2="-42.5" width="0.15" layer="16"/>
+<wire x1="43.75" y1="-47.5" x2="31.25" y2="-47.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_0">
 <contactref element="R16" pad="1"/>
@@ -2401,10 +2212,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$74">
 <contactref element="SW14" pad="4"/>
-<contactref element="SW14" pad="3"/>
+<contactref element="SW14" pad="2"/>
 <contactref element="R16" pad="2"/>
 <wire x1="43.75" y1="-72.5" x2="43.75" y2="-67.5" width="0.15" layer="16"/>
 <wire x1="43.75" y1="-67.5" x2="46.125" y2="-67.5" width="0.15" layer="16"/>
+<wire x1="43.75" y1="-72.5" x2="31.25" y2="-72.5" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_AMPS">
 <contactref element="R17" pad="1"/>
@@ -2430,10 +2242,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$76">
 <contactref element="SW15" pad="4"/>
-<contactref element="SW15" pad="3"/>
+<contactref element="SW15" pad="2"/>
 <contactref element="R17" pad="2"/>
 <wire x1="71.125" y1="-30" x2="68.75" y2="-30" width="0.15" layer="16"/>
 <wire x1="68.75" y1="-30" x2="68.75" y2="-35" width="0.15" layer="16"/>
+<wire x1="56.25" y1="-35" x2="68.75" y2="-35" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="BTN_VOLTS">
 <contactref element="R18" pad="1"/>
@@ -2455,10 +2268,11 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="N$78">
 <contactref element="SW16" pad="4"/>
-<contactref element="SW16" pad="3"/>
+<contactref element="SW16" pad="2"/>
 <contactref element="R18" pad="2"/>
 <wire x1="71.125" y1="-55" x2="68.75" y2="-55" width="0.15" layer="16"/>
 <wire x1="68.75" y1="-60" x2="68.75" y2="-55" width="0.15" layer="16"/>
+<wire x1="56.25" y1="-60" x2="68.75" y2="-60" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="N$79">
 <wire x1="-55.35" y1="5" x2="-60.35" y2="5" width="0.15" layer="1"/>
@@ -2968,8 +2782,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_!WE">
 <contactref element="U1" pad="26"/>
-<contactref element="U2" pad="16"/>
-<wire x1="61" y1="43.4" x2="57.025" y2="43.4" width="0.15" layer="16"/>
 <wire x1="57.025" y1="43.4" x2="57" y2="43.375" width="0.15" layer="16"/>
 <via x="57" y="43.375" extent="1-16" drill="0.3"/>
 <via x="57" y="58.875" extent="1-16" drill="0.3"/>
@@ -2986,8 +2798,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_!CS">
 <contactref element="U1" pad="28"/>
-<contactref element="U2" pad="19"/>
-<wire x1="61" y1="41" x2="54.25" y2="41" width="0.15" layer="16"/>
 <via x="54.25" y="41" extent="1-16" drill="0.3"/>
 <wire x1="54.25" y1="41" x2="54.25" y2="31" width="0.15" layer="1"/>
 <via x="54.25" y="31" extent="1-16" drill="0.3"/>
@@ -2999,8 +2809,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_CKE">
 <contactref element="U1" pad="29"/>
-<contactref element="U2" pad="37"/>
-<wire x1="49" y1="41.8" x2="48.95" y2="41.75" width="0.15" layer="16"/>
 <wire x1="48.95" y1="41.75" x2="36.125" y2="41.75" width="0.15" layer="16"/>
 <via x="36.125" y="41.75" extent="1-16" drill="0.3"/>
 <wire x1="36.125" y1="41.75" x2="36.125" y2="39.75" width="0.15" layer="1"/>
@@ -3018,8 +2826,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D2">
 <contactref element="U1" pad="114"/>
-<contactref element="U2" pad="5"/>
-<wire x1="61" y1="52.2" x2="58.05" y2="52.2" width="0.15" layer="16"/>
 <wire x1="58.05" y1="52.2" x2="58" y2="52.25" width="0.15" layer="16"/>
 <via x="58" y="52.25" extent="1-16" drill="0.3"/>
 <wire x1="58" y1="52.25" x2="58" y2="61" width="0.15" layer="1"/>
@@ -3032,8 +2838,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D3">
 <contactref element="U1" pad="115"/>
-<contactref element="U2" pad="7"/>
-<wire x1="61" y1="50.6" x2="57.525" y2="50.6" width="0.15" layer="16"/>
 <wire x1="57.525" y1="50.6" x2="57.5" y2="50.625" width="0.15" layer="16"/>
 <via x="57.5" y="50.625" extent="1-16" drill="0.3"/>
 <wire x1="57.5" y1="50.625" x2="57.5" y2="61.5" width="0.15" layer="1"/>
@@ -3046,8 +2850,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D13">
 <contactref element="U1" pad="77"/>
-<contactref element="U2" pad="50"/>
-<wire x1="49" y1="52.2" x2="50.95" y2="52.2" width="0.15" layer="16"/>
 <wire x1="50.95" y1="52.2" x2="51" y2="52.25" width="0.15" layer="16"/>
 <via x="51" y="52.25" extent="1-16" drill="0.3"/>
 <wire x1="51" y1="52.25" x2="51" y2="63" width="0.15" layer="1"/>
@@ -3060,8 +2862,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D14">
 <contactref element="U1" pad="78"/>
-<contactref element="U2" pad="51"/>
-<wire x1="49" y1="53" x2="52" y2="53" width="0.15" layer="16"/>
 <via x="52" y="53" extent="1-16" drill="0.3"/>
 <wire x1="52" y1="53" x2="52" y2="62" width="0.15" layer="1"/>
 <via x="52" y="62" extent="1-16" drill="0.3"/>
@@ -3073,8 +2873,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D15">
 <contactref element="U1" pad="79"/>
-<contactref element="U2" pad="53"/>
-<wire x1="49" y1="54.6" x2="51.475" y2="54.6" width="0.15" layer="16"/>
 <wire x1="51.475" y1="54.6" x2="51.5" y2="54.625" width="0.15" layer="16"/>
 <via x="51.5" y="54.625" extent="1-16" drill="0.3"/>
 <wire x1="51.5" y1="54.625" x2="51.5" y2="63.5" width="0.15" layer="1"/>
@@ -3087,8 +2885,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D0">
 <contactref element="U1" pad="85"/>
-<contactref element="U2" pad="2"/>
-<wire x1="61" y1="54.6" x2="56.025" y2="54.6" width="0.15" layer="16"/>
 <wire x1="56.025" y1="54.6" x2="56" y2="54.625" width="0.15" layer="16"/>
 <via x="56" y="54.625" extent="1-16" drill="0.3"/>
 <wire x1="56" y1="54.625" x2="56" y2="64" width="0.15" layer="1"/>
@@ -3105,8 +2901,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D1">
 <contactref element="U1" pad="86"/>
-<contactref element="U2" pad="4"/>
-<wire x1="61" y1="53" x2="55.5" y2="53" width="0.15" layer="16"/>
 <via x="55.5" y="53" extent="1-16" drill="0.3"/>
 <wire x1="55.5" y1="53" x2="55.5" y2="64.5" width="0.15" layer="1"/>
 <via x="55.5" y="64.5" extent="1-16" drill="0.3"/>
@@ -3118,10 +2912,8 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D12">
 <contactref element="U1" pad="68"/>
-<contactref element="U2" pad="48"/>
 <wire x1="13.25" y1="34.375" x2="13.25" y2="35.75" width="0.15" layer="16"/>
 <via x="13.25" y="35.75" extent="1-16" drill="0.3"/>
-<wire x1="49" y1="50.6" x2="51.85" y2="50.6" width="0.15" layer="16"/>
 <wire x1="51.85" y1="50.6" x2="51.875" y2="50.625" width="0.15" layer="16"/>
 <via x="51.875" y="50.625" extent="1-16" drill="0.3"/>
 <wire x1="51.875" y1="50.625" x2="51.875" y2="25.375" width="0.15" layer="1"/>
@@ -3132,11 +2924,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D11">
 <contactref element="U1" pad="67"/>
-<contactref element="U2" pad="47"/>
 <wire x1="13.75" y1="34.375" x2="13.75" y2="35.375" width="0.15" layer="16"/>
 <via x="13.75" y="35.375" extent="1-16" drill="0.3"/>
 <wire x1="13.75" y1="35.375" x2="13.75" y2="25.875" width="0.15" layer="1"/>
-<wire x1="49" y1="49.8" x2="51.325" y2="49.8" width="0.15" layer="16"/>
 <wire x1="51.325" y1="49.8" x2="51.375" y2="49.75" width="0.15" layer="16"/>
 <via x="51.375" y="49.75" extent="1-16" drill="0.3"/>
 <via x="51.375" y="25.875" extent="1-16" drill="0.3"/>
@@ -3146,11 +2936,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D10">
 <contactref element="U1" pad="66"/>
-<contactref element="U2" pad="45"/>
 <wire x1="14.25" y1="34.375" x2="14.25" y2="35.75" width="0.15" layer="16"/>
 <via x="14.25" y="35.75" extent="1-16" drill="0.3"/>
 <wire x1="14.25" y1="35.75" x2="14.25" y2="29.875" width="0.15" layer="1"/>
-<wire x1="49" y1="48.2" x2="44.3" y2="48.2" width="0.15" layer="16"/>
 <wire x1="44.3" y1="48.2" x2="44.25" y2="48.25" width="0.15" layer="16"/>
 <via x="44.25" y="48.25" extent="1-16" drill="0.3"/>
 <wire x1="44.25" y1="48.25" x2="44.25" y2="29.875" width="0.15" layer="1"/>
@@ -3160,11 +2948,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D9">
 <contactref element="U1" pad="65"/>
-<contactref element="U2" pad="44"/>
 <wire x1="14.75" y1="34.375" x2="14.75" y2="35.375" width="0.15" layer="16"/>
 <via x="14.75" y="35.375" extent="1-16" drill="0.3"/>
 <wire x1="14.75" y1="35.375" x2="14.75" y2="26.375" width="0.15" layer="1"/>
-<wire x1="49" y1="47.4" x2="50.775" y2="47.4" width="0.15" layer="16"/>
 <wire x1="50.775" y1="47.4" x2="50.875" y2="47.5" width="0.15" layer="16"/>
 <via x="50.875" y="47.5" extent="1-16" drill="0.3"/>
 <wire x1="50.875" y1="47.5" x2="50.875" y2="26.375" width="0.15" layer="1"/>
@@ -3174,11 +2960,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D8">
 <contactref element="U1" pad="64"/>
-<contactref element="U2" pad="42"/>
 <wire x1="15.25" y1="34.375" x2="15.25" y2="35.75" width="0.15" layer="16"/>
 <via x="15.25" y="35.75" extent="1-16" drill="0.3"/>
 <wire x1="15.25" y1="35.75" x2="15.25" y2="29.375" width="0.15" layer="1"/>
-<wire x1="49" y1="45.8" x2="45.2" y2="45.8" width="0.15" layer="16"/>
 <wire x1="45.2" y1="45.8" x2="45.125" y2="45.875" width="0.15" layer="16"/>
 <via x="45.125" y="45.875" extent="1-16" drill="0.3"/>
 <wire x1="45.125" y1="45.875" x2="45.125" y2="29.375" width="0.15" layer="1"/>
@@ -3188,8 +2972,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D7">
 <contactref element="U1" pad="63"/>
-<contactref element="U2" pad="13"/>
-<wire x1="61" y1="45.8" x2="53.3" y2="45.8" width="0.15" layer="16"/>
 <wire x1="53.3" y1="45.8" x2="53.25" y2="45.75" width="0.15" layer="16"/>
 <via x="53.25" y="45.75" extent="1-16" drill="0.3"/>
 <wire x1="53.25" y1="45.75" x2="53.25" y2="22.75" width="0.15" layer="1"/>
@@ -3202,10 +2984,8 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D6">
 <contactref element="U1" pad="60"/>
-<contactref element="U2" pad="11"/>
 <wire x1="17.25" y1="35.75" x2="17.25" y2="34.375" width="0.15" layer="16"/>
 <via x="17.25" y="35.75" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="47.4" x2="59.275" y2="47.4" width="0.15" layer="16"/>
 <wire x1="59.275" y1="47.4" x2="59.25" y2="47.375" width="0.15" layer="16"/>
 <via x="59.25" y="47.375" extent="1-16" drill="0.3"/>
 <via x="59.25" y="21.25" extent="1-16" drill="0.3"/>
@@ -3216,10 +2996,8 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D5">
 <contactref element="U1" pad="59"/>
-<contactref element="U2" pad="10"/>
 <wire x1="17.75" y1="34.375" x2="17.75" y2="35.375" width="0.15" layer="16"/>
 <via x="17.75" y="35.375" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="48.2" x2="58.825" y2="48.2" width="0.15" layer="16"/>
 <wire x1="58.825" y1="48.2" x2="58.75" y2="48.125" width="0.15" layer="16"/>
 <via x="58.75" y="48.125" extent="1-16" drill="0.3"/>
 <wire x1="58.75" y1="48.125" x2="58.75" y2="21.75" width="0.15" layer="1"/>
@@ -3230,10 +3008,8 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_D4">
 <contactref element="U1" pad="58"/>
-<contactref element="U2" pad="8"/>
 <wire x1="18.25" y1="34.375" x2="18.25" y2="35.75" width="0.15" layer="16"/>
 <via x="18.25" y="35.75" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="49.8" x2="58.3" y2="49.8" width="0.15" layer="16"/>
 <wire x1="58.3" y1="49.8" x2="58.25" y2="49.75" width="0.15" layer="16"/>
 <via x="58.25" y="49.75" extent="1-16" drill="0.3"/>
 <via x="58.25" y="22.25" extent="1-16" drill="0.3"/>
@@ -3244,11 +3020,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A9">
 <contactref element="U1" pad="55"/>
-<contactref element="U2" pad="34"/>
 <wire x1="19.75" y1="34.375" x2="19.75" y2="35.375" width="0.15" layer="16"/>
 <via x="19.75" y="35.375" extent="1-16" drill="0.3"/>
 <wire x1="19.75" y1="35.375" x2="19.75" y2="28.375" width="0.15" layer="1"/>
-<wire x1="49" y1="39.4" x2="46.15" y2="39.4" width="0.15" layer="16"/>
 <wire x1="46.15" y1="39.4" x2="46.125" y2="39.375" width="0.15" layer="16"/>
 <via x="46.125" y="39.375" extent="1-16" drill="0.3"/>
 <wire x1="46.125" y1="39.375" x2="46.125" y2="28.375" width="0.15" layer="1"/>
@@ -3258,11 +3032,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A8">
 <contactref element="U1" pad="54"/>
-<contactref element="U2" pad="33"/>
 <wire x1="20.25" y1="34.375" x2="20.25" y2="35.75" width="0.15" layer="16"/>
 <via x="20.25" y="35.75" extent="1-16" drill="0.3"/>
 <wire x1="20.25" y1="35.75" x2="20.25" y2="27.875" width="0.15" layer="1"/>
-<wire x1="49" y1="38.6" x2="46.65" y2="38.6" width="0.15" layer="16"/>
 <wire x1="46.65" y1="38.6" x2="46.625" y2="38.625" width="0.15" layer="16"/>
 <via x="46.625" y="38.625" extent="1-16" drill="0.3"/>
 <via x="46.625" y="27.875" extent="1-16" drill="0.3"/>
@@ -3272,11 +3044,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A7">
 <contactref element="U1" pad="53"/>
-<contactref element="U2" pad="32"/>
 <wire x1="20.75" y1="34.375" x2="20.75" y2="35.375" width="0.15" layer="16"/>
 <via x="20.75" y="35.375" extent="1-16" drill="0.3"/>
 <wire x1="20.75" y1="35.375" x2="20.75" y2="27.375" width="0.15" layer="1"/>
-<wire x1="49" y1="37.8" x2="47.175" y2="37.8" width="0.15" layer="16"/>
 <wire x1="47.175" y1="37.8" x2="47.125" y2="37.75" width="0.15" layer="16"/>
 <via x="47.125" y="37.75" extent="1-16" drill="0.3"/>
 <wire x1="47.125" y1="37.75" x2="47.125" y2="27.375" width="0.15" layer="1"/>
@@ -3286,11 +3056,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A6">
 <contactref element="U1" pad="50"/>
-<contactref element="U2" pad="31"/>
 <wire x1="22.25" y1="34.375" x2="22.25" y2="35.75" width="0.15" layer="16"/>
 <via x="22.25" y="35.75" extent="1-16" drill="0.3"/>
 <wire x1="22.25" y1="35.75" x2="22.25" y2="26.875" width="0.15" layer="1"/>
-<wire x1="49" y1="37" x2="47.625" y2="37" width="0.15" layer="16"/>
 <via x="47.625" y="37" extent="1-16" drill="0.3"/>
 <wire x1="47.625" y1="37" x2="47.625" y2="26.875" width="0.15" layer="1"/>
 <via x="47.625" y="26.875" extent="1-16" drill="0.3"/>
@@ -3299,8 +3067,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_!RAS">
 <contactref element="U1" pad="49"/>
-<contactref element="U2" pad="18"/>
-<wire x1="61" y1="41.8" x2="53.8" y2="41.8" width="0.15" layer="16"/>
 <wire x1="53.8" y1="41.8" x2="53.75" y2="41.75" width="0.15" layer="16"/>
 <via x="53.75" y="41.75" extent="1-16" drill="0.3"/>
 <wire x1="53.75" y1="41.75" x2="53.75" y2="23.25" width="0.15" layer="1"/>
@@ -3326,8 +3092,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A5">
 <contactref element="U1" pad="15"/>
-<contactref element="U2" pad="30"/>
-<wire x1="49" y1="36.2" x2="39.55" y2="36.2" width="0.15" layer="16"/>
 <wire x1="39.55" y1="36.2" x2="39.5" y2="36.25" width="0.15" layer="16"/>
 <via x="39.5" y="36.25" extent="1-16" drill="0.3"/>
 <wire x1="39.5" y1="36.25" x2="39.5" y2="46.75" width="0.15" layer="1"/>
@@ -3336,8 +3100,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A4">
 <contactref element="U1" pad="14"/>
-<contactref element="U2" pad="29"/>
-<wire x1="49" y1="35.4" x2="40.025" y2="35.4" width="0.15" layer="16"/>
 <wire x1="40.025" y1="35.4" x2="40" y2="35.375" width="0.15" layer="16"/>
 <via x="40" y="35.375" extent="1-16" drill="0.3"/>
 <wire x1="40" y1="35.375" x2="40" y2="47.25" width="0.15" layer="1"/>
@@ -3346,7 +3108,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A3">
 <contactref element="U1" pad="13"/>
-<contactref element="U2" pad="26"/>
 <wire x1="30.625" y1="47.75" x2="40.5" y2="47.75" width="0.15" layer="16"/>
 <via x="40.5" y="47.75" extent="1-16" drill="0.3"/>
 <wire x1="40.5" y1="47.75" x2="40.5" y2="31.5" width="0.15" layer="1"/>
@@ -3356,11 +3117,9 @@ einem neuen Namen ab.</description>
 <wire x1="57.75" y1="31.5" x2="57.75" y2="35.5" width="0.15" layer="1"/>
 <via x="57.75" y="35.5" extent="1-16" drill="0.3"/>
 <wire x1="57.75" y1="35.5" x2="57.85" y2="35.4" width="0.15" layer="16"/>
-<wire x1="57.85" y1="35.4" x2="61" y2="35.4" width="0.15" layer="16"/>
 </signal>
 <signal name="SDRAM_A2">
 <contactref element="U1" pad="12"/>
-<contactref element="U2" pad="25"/>
 <wire x1="30.625" y1="48.25" x2="41" y2="48.25" width="0.15" layer="16"/>
 <via x="41" y="48.25" extent="1-16" drill="0.3"/>
 <wire x1="41" y1="48.25" x2="41" y2="32" width="0.15" layer="1"/>
@@ -3369,12 +3128,10 @@ einem neuen Namen ab.</description>
 <via x="57.25" y="32" extent="1-16" drill="0.3"/>
 <wire x1="57.25" y1="32" x2="57.25" y2="36.25" width="0.15" layer="1"/>
 <via x="57.25" y="36.25" extent="1-16" drill="0.3"/>
-<wire x1="61" y1="36.2" x2="57.3" y2="36.2" width="0.15" layer="16"/>
 <wire x1="57.3" y1="36.2" x2="57.25" y2="36.25" width="0.15" layer="16"/>
 </signal>
 <signal name="SDRAM_A1">
 <contactref element="U1" pad="11"/>
-<contactref element="U2" pad="24"/>
 <wire x1="30.625" y1="48.75" x2="41.5" y2="48.75" width="0.15" layer="16"/>
 <via x="41.5" y="48.75" extent="1-16" drill="0.3"/>
 <via x="41.5" y="32.5" extent="1-16" drill="0.3"/>
@@ -3382,12 +3139,10 @@ einem neuen Namen ab.</description>
 <via x="56.75" y="32.5" extent="1-16" drill="0.3"/>
 <wire x1="56.75" y1="32.5" x2="56.75" y2="37" width="0.15" layer="1"/>
 <via x="56.75" y="37" extent="1-16" drill="0.3"/>
-<wire x1="56.75" y1="37" x2="61" y2="37" width="0.15" layer="16"/>
 <wire x1="41.5" y1="48.75" x2="41.5" y2="32.5" width="0.15" layer="1"/>
 </signal>
 <signal name="SDRAM_A0">
 <contactref element="U1" pad="10"/>
-<contactref element="U2" pad="23"/>
 <wire x1="30.625" y1="49.25" x2="42" y2="49.25" width="0.15" layer="16"/>
 <via x="42" y="49.25" extent="1-16" drill="0.3"/>
 <wire x1="42" y1="49.25" x2="42" y2="33" width="0.15" layer="1"/>
@@ -3397,12 +3152,9 @@ einem neuen Namen ab.</description>
 <wire x1="56.25" y1="33" x2="56.25" y2="37.75" width="0.15" layer="1"/>
 <via x="56.25" y="37.75" extent="1-16" drill="0.3"/>
 <wire x1="56.25" y1="37.75" x2="56.3" y2="37.8" width="0.15" layer="16"/>
-<wire x1="56.3" y1="37.8" x2="61" y2="37.8" width="0.15" layer="16"/>
 </signal>
 <signal name="SDRAM_!CAS">
 <contactref element="U1" pad="132"/>
-<contactref element="U2" pad="17"/>
-<wire x1="61" y1="42.6" x2="56.6" y2="42.6" width="0.15" layer="16"/>
 <wire x1="56.6" y1="42.6" x2="56.5" y2="42.5" width="0.15" layer="16"/>
 <via x="56.5" y="42.5" extent="1-16" drill="0.3"/>
 <wire x1="56.5" y1="42.5" x2="56.5" y2="62.5" width="0.15" layer="1"/>
@@ -3449,8 +3201,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_CLK">
 <contactref element="U1" pad="93"/>
-<contactref element="U2" pad="38"/>
-<wire x1="49" y1="42.6" x2="43.775" y2="42.6" width="0.15" layer="16"/>
 <wire x1="43.775" y1="42.6" x2="43.75" y2="42.625" width="0.15" layer="16"/>
 <via x="43.75" y="42.625" extent="1-16" drill="0.3"/>
 <wire x1="43.75" y1="42.625" x2="43.75" y2="20.75" width="0.15" layer="1"/>
@@ -3472,8 +3222,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_BA1">
 <contactref element="U1" pad="90"/>
-<contactref element="U2" pad="21"/>
-<wire x1="61" y1="39.4" x2="55.35" y2="39.4" width="0.15" layer="16"/>
 <wire x1="55.35" y1="39.4" x2="55.25" y2="39.5" width="0.15" layer="16"/>
 <via x="55.25" y="39.5" extent="1-16" drill="0.3"/>
 <wire x1="55.25" y1="39.5" x2="55.25" y2="24.25" width="0.15" layer="1"/>
@@ -3486,8 +3234,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_BA0">
 <contactref element="U1" pad="89"/>
-<contactref element="U2" pad="20"/>
-<wire x1="61" y1="40.2" x2="54.8" y2="40.2" width="0.15" layer="16"/>
 <wire x1="54.8" y1="40.2" x2="54.75" y2="40.25" width="0.15" layer="16"/>
 <via x="54.75" y="40.25" extent="1-16" drill="0.3"/>
 <wire x1="54.75" y1="40.25" x2="54.75" y2="23.75" width="0.15" layer="1"/>
@@ -3500,11 +3246,9 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A11">
 <contactref element="U1" pad="57"/>
-<contactref element="U2" pad="35"/>
 <wire x1="18.75" y1="34.375" x2="18.75" y2="35.375" width="0.15" layer="16"/>
 <via x="18.75" y="35.375" extent="1-16" drill="0.3"/>
 <wire x1="18.75" y1="35.375" x2="18.75" y2="28.875" width="0.15" layer="1"/>
-<wire x1="49" y1="40.2" x2="45.675" y2="40.2" width="0.15" layer="16"/>
 <wire x1="45.675" y1="40.2" x2="45.625" y2="40.25" width="0.15" layer="16"/>
 <via x="45.625" y="40.25" extent="1-16" drill="0.3"/>
 <wire x1="45.625" y1="40.25" x2="45.625" y2="28.875" width="0.15" layer="1"/>
@@ -3514,8 +3258,6 @@ einem neuen Namen ab.</description>
 </signal>
 <signal name="SDRAM_A10">
 <contactref element="U1" pad="56"/>
-<contactref element="U2" pad="22"/>
-<wire x1="61" y1="38.6" x2="55.85" y2="38.6" width="0.15" layer="16"/>
 <wire x1="55.85" y1="38.6" x2="55.75" y2="38.5" width="0.15" layer="16"/>
 <via x="55.75" y="38.5" extent="1-16" drill="0.3"/>
 <wire x1="55.75" y1="38.5" x2="55.75" y2="24.75" width="0.15" layer="1"/>
